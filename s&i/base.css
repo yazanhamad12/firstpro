@@ -40,3 +40,9 @@ ul li {
     list-style: none;
 
 }
+@media (max-width:400px) {
+.continer{
+   width:  100%;
+}
+
+}
